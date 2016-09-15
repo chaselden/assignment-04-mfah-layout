@@ -1,0 +1,11 @@
+*{
+   box-sizing: border-box;
+}
+
+html{
+   font-size: 12px;
+}
+img {
+   display: block;
+   width: 100%;
+}
